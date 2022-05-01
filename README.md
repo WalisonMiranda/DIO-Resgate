@@ -1,4 +1,4 @@
-#DIO-Resgate
+# DIO-Resgate
 
 Jogo de nave para navegador desenvolvido no bootcamp Órbi Web Games Developer na plataforma digital innovation one.
 
